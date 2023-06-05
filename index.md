@@ -1,2 +1,3 @@
 # Modified index.md
-index.mdは変更されました。
+index.mdは2回変更されました。
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
